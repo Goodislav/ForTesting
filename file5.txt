@@ -5,3 +5,5 @@ Hello from add-feature3 branch!
 
 
 Line from user2
+
+Another line from user2
