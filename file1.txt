@@ -1,5 +1,5 @@
 Hello World! 987 654
 How it works? Just watch, it is easy!
-Fix bugs! Now it works
+some line from user1
 
 Line from user1
